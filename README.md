@@ -1,2 +1,2 @@
-# C++ Teaching
-C++ learning process
+# C Teaching
+C learning process
